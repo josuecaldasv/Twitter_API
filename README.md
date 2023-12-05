@@ -25,7 +25,7 @@ import function as fn
 username   = 'target_username'
 max_tweets = 10
 param_list = ['tweet_field_1', 'tweet_field_2']
-keys_path  = 'path/to/your/keys.json'
+keys_path  = 'keys.json'
 save_path  = 'path/to/save/json/file'
 
 # Call the function
